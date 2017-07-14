@@ -1,0 +1,23 @@
+// Place all the styles related to the staticpages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+h1 {
+    color: #f84342;
+    style: sans-serif;
+    padding-top: 10px;
+}
+
+h2 {
+    color: #4def47;
+    style: sans-serif;
+}
+
+body {
+
+  background: url('flying_fish') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
